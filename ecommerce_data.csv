@@ -1,0 +1,6 @@
+order_id,order_date,customer_id,product,category,quantity,price
+1001,2024-01-02,C001,Headphones,Electronics,1,120
+1002,2024-01-03,C002,Sneakers,Fashion,2,75
+1003,2024-01-04,C001,Keyboard,Electronics,1,60
+1004,2024-01-05,C003,Backpack,Accessories,1,45
+1005,2024-01-06,C002,T-Shirt,Fashion,3,25
